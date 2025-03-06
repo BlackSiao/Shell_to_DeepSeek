@@ -9,8 +9,7 @@
  - 去官网申请一个API-key，并添加到环境变量中打开
  - 直接运行脚本就好了
 
-![Image text](https://github.com/BlackSiao/Shell_to_DeepSeek/edit/main/运行结果.png)
-
+![Image text](https://github.com/BlackSiao/Shell_to_DeepSeek/tree/main/运行结果.png)
 
 # 待更新的内容
 deepseek官网的API文档写的就是一坨，太简陋了。这个脚本还没能实现打字机效果，等过几天我再看看怎么处理
