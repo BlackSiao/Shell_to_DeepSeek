@@ -9,6 +9,7 @@
  - 去官网申请一个API-key，并添加到环境变量中打开
  - 直接运行脚本就好了
 
+![Image text](https://github.com/BlackSiao/Shell_to_DeepSeek/edit/main/运行结果.png)
 
 
 # 待更新的内容
