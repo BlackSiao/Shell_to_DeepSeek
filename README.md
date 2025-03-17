@@ -1,4 +1,4 @@
-# Shell_to_DeepSeek
+# 直接用shell吧
 厌烦了每次问大语言模型都要打开Web，还要等网页渲染？直接走API吧，省心多了
 
 # 这个Shell脚本运行在Linux系统
@@ -13,3 +13,7 @@
 
 # 待更新的内容
 deepseek官网的API文档写的就是一坨，太简陋了。这个脚本还没能实现打字机效果，等过几天我再看看怎么处理
+
+## 已实现打字机效果，deepSeek使用 SSE（server-sent events）来实现打字机效果，消息流以 data: [DONE] 结尾。
+
+## 但是DeepSeek的API响应速度还是有点慢
