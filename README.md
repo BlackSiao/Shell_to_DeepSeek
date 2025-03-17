@@ -14,6 +14,6 @@
 # 待更新的内容
 deepseek官网的API文档写的就是一坨，太简陋了。这个脚本还没能实现打字机效果，等过几天我再看看怎么处理
 
-## 已实现打字机效果，deepSeek使用 SSE（server-sent events）来实现打字机效果，消息流以 data: [DONE] 结尾。
+## 2025-3-17 已实现打字机效果，deepSeek使用 SSE（server-sent events）来实现打字机效果，消息流以 data: [DONE] 结尾。
 
 ## 但是DeepSeek的API响应速度还是有点慢
